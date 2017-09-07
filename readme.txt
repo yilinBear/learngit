@@ -1,2 +1,2 @@
-git is good.
+git is bad.
 git is free.
